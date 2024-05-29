@@ -65,8 +65,6 @@ The MovieMingleBot architecture includes the following components:
 5. **Transaction Management:** Manages movie bookings, seat availability, and cancellations.
 6. **Information Retrieval:** Provides details about movies using a predefined dataset.
 
-![Bot Architecture](architecture.png)
-
 ## Future Work
 - **🤖 Enhanced AI:** Improve the bot's NLP capabilities for more complex queries.
 - **📱 Mobile App Integration:** Develop a mobile application for easier access.
