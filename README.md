@@ -10,7 +10,7 @@ To get started with MovieMingleBot, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/MovieMingleBot.git
+    git clone https://github.com/chboey/MovieMingleBot.git
     ```
 
 2. **Navigate to the project directory**
@@ -71,9 +71,3 @@ The MovieMingleBot architecture includes the following components:
 - **🤖 Enhanced AI:** Improve the bot's NLP capabilities for more complex queries.
 - **📱 Mobile App Integration:** Develop a mobile application for easier access.
 - **🌐 Multilingual Support:** Add support for multiple languages to cater to a wider audience.
-
-## Contributing
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
