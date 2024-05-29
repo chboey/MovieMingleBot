@@ -58,12 +58,14 @@ Once the bot is running, you can interact with it via the command line. Below ar
 ## Architecture
 The MovieMingleBot architecture includes the following components:
 
-1. **Main Module:** `main.py` - The entry point of the bot.
-2. **Intent Recognition:** Uses cosine similarity and TF-IDF vectorization.
-3. **Text Preprocessing:** Involves tokenization, part-of-speech tagging, and named entity recognition.
-4. **User Interaction:** Handles user registration, login, and session management.
-5. **Transaction Management:** Manages movie bookings, seat availability, and cancellations.
-6. **Information Retrieval:** Provides details about movies using a predefined dataset.
+| **Component**            | **Description**                                                                                  |
+|--------------------------|--------------------------------------------------------------------------------------------------|
+| **Main Module**          | `main.py` - The entry point of the bot.                                                          |
+| **Intent Recognition**   | Uses cosine similarity and TF-IDF vectorization.                                                 |
+| **Text Preprocessing**   | Involves tokenization, part-of-speech tagging, and named entity recognition.                     |
+| **User Interaction**     | Handles user registration, login, and session management.                                        |
+| **Transaction Management** | Manages movie bookings, seat availability, and cancellations.                                  |
+| **Information Retrieval** | Provides details about movies using a predefined dataset.                                       |
 
 ## Future Work
 - **🤖 Enhanced AI:** Improve the bot's NLP capabilities for more complex queries.
