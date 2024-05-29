@@ -31,19 +31,19 @@ To get started with MovieMingleBot, follow these steps:
 ## Usage
 Once the bot is running, you can interact with it via the command line. Below are some example interactions:
 
-**Greeting the bot**
+- **Greeting the bot**
     ```plaintext
     User: Hello!
     Bot: Hi there! How can I assist you today?
     ```
 
-**Booking a movie ticket**
+- **Booking a movie ticket**
     ```plaintext
     User: I want to book a movie ticket.
     Bot: Sure! Which movie would you like to watch?
     ```
 
-**Checking the weather**
+- **Checking the weather**
     ```plaintext
     User: What's the weather like today?
     Bot: The weather today is sunny with a high of 25°C.
